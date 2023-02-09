@@ -1,0 +1,6 @@
+{"label":"EDUCATION","pattern":[{"LOWER":"phd"}]}
+{"label":"EDUCATION","pattern":[{"LOWER":"p"},{"LOWER":"h"},{"LOWER":"d"}]}
+{"label":"EDUCATION","pattern":[{"LOWER":"masters"}]}
+{"label":"EDUCATION","pattern":[{"LOWER": "bachelors"}]}
+{"label":"EDUCATION","pattern":[{"LOWER": "high"},{"LOWER": "school"}]}
+{"label":"EDUCATION","pattern":[{"LOWER": "highschool"}]}
